@@ -1,0 +1,14 @@
+C:\Users\Edson\Desktop\edson\bin\Debug\net8.0\edson.exe
+C:\Users\Edson\Desktop\edson\bin\Debug\net8.0\edson.deps.json
+C:\Users\Edson\Desktop\edson\bin\Debug\net8.0\edson.runtimeconfig.json
+C:\Users\Edson\Desktop\edson\bin\Debug\net8.0\edson.dll
+C:\Users\Edson\Desktop\edson\bin\Debug\net8.0\edson.pdb
+C:\Users\Edson\Desktop\edson\obj\Debug\net8.0\edson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edson\Desktop\edson\obj\Debug\net8.0\edson.AssemblyInfoInputs.cache
+C:\Users\Edson\Desktop\edson\obj\Debug\net8.0\edson.AssemblyInfo.cs
+C:\Users\Edson\Desktop\edson\obj\Debug\net8.0\edson.csproj.CoreCompileInputs.cache
+C:\Users\Edson\Desktop\edson\obj\Debug\net8.0\edson.dll
+C:\Users\Edson\Desktop\edson\obj\Debug\net8.0\refint\edson.dll
+C:\Users\Edson\Desktop\edson\obj\Debug\net8.0\edson.pdb
+C:\Users\Edson\Desktop\edson\obj\Debug\net8.0\edson.genruntimeconfig.cache
+C:\Users\Edson\Desktop\edson\obj\Debug\net8.0\ref\edson.dll
